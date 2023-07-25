@@ -1,0 +1,69 @@
+body{
+    background: linear-gradient(#EE7C82, hsl(73, 54%, 60%));
+}
+.container{
+    background-color:hsl(17, 59%, 81%, 0.7);
+    
+}
+
+.bg-primary{
+    background-color:#D9885B!important;
+}
+
+.text-bg-primary{
+    background-color: hsl(73, 54%, 60%)!important;
+}
+.text-bg-dark {
+    color: #fff!important;
+    background-color:  hsl(73, 54%, 60%)!important;
+}
+#icono-perfil{
+    width: 40px;
+}
+
+.icon{
+    width: 25px;
+}
+
+#img-perfil{
+    width: 200px;
+    border-radius: 50%;
+}
+#monograma{
+    width: 80px;
+}
+
+#menu{
+    background-color: hsl(357, 77%, 71%, 0.8);
+}
+
+#Proyecto-1{
+    background-image: url(Images/proyecto-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#Proyecto-2{
+    background-image: url(Images/Proyecto-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#Proyecto-3{
+    background-image: url(Images/proyecto-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.me-auto{
+    background-color: hsl(21, 62%, 60%);
+    width: 50px;
+    height: 50px;
+    border-radius: 60%;
+}
+#redes{
+    background-color: hsl(357, 77%, 71%, 0.8);
+}
+#redes-2{
+    background-color: hsl(357, 77%, 71%, 0.8);
+}

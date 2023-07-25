@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(#EE7C82, hsl(73, 54%, 60%));
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#redes{
+    background-color: hsl(357, 77%, 71%, 0.8);
+}
+#redes-2{
+    background-color: hsl(357, 77%, 71%, 0.8);
+}
+#icono-perfil{
+    width: 40px;
+}
+.icon{
+    width: 25px;
+}
