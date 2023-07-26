@@ -11,7 +11,7 @@ También contiene una sección de almacenamiento de archivos *(imágenes)* que n
 Aquí puedes visitar la página: https://regal-biscuit-69ea88.netlify.app/index.html#proyectos
 
 
-![image](pantalla perfil.jpg)
+![image](https://github.com/7evenana/Portafolio/blob/main/pantalla%20perfil.jpg)
 
 
 ## Tecnologías
