@@ -7,8 +7,11 @@ El propósito del sitio web es mostrar el portafolio de proyectos de un(a) desar
 Incluye uma descripción de mi perfil, habilidades, proyectos, catálogo de imágenes y formas de contacto.
 
 También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
+
 Aquí puedes visitar la página: https://regal-biscuit-69ea88.netlify.app/index.html#proyectos
-![image]()
+
+
+![image](pantalla perfil.jpg)
 
 
 ## Tecnologías
